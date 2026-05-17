@@ -1,0 +1,8 @@
+{
+  "name": "TOOL LITE PRO",
+  "description": "Professional MIDI and Cubase control interface for livestreaming and music production with Web MIDI API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
